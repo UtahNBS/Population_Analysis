@@ -1,5 +1,5 @@
 # Statistical_Analysis
-Statistical Analysis Script that helps visualize important statistical data to determine cutoffs in newbron screening.
+Statistical Analysis Script that helps visualize important statistical data to determine cutoffs in newbron screening. Command line to execute the code is (for my biologist friends): python NBS_Analysis.py
 
 
 Developer: Bryce Asay (aka paleomanic) Laboratory: Utah Newborn Screening Date: 7/2/2020
