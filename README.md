@@ -2,9 +2,9 @@
 Statistical Analysis Script that helps visualize important statistical data to determine cutoffs in newbron screening. Command line to execute the code is (for my biologist friends): python NBS_Analysis.py
 
 
-Developer: Bryce Asay (aka paleomanic) Laboratory: Utah Newborn Screening Date: 7/2/2020
+Developer: Bryce Asay (aka paleomanic)                 Laboratory: Utah Newborn Screening Date: 7/2/2020
 
-See Instructions.ipynb for instructions with visuals. 
+See Instructions.ipynb for the readme with visuals. 
 
 General user interface (GUI) to help visualize a population sample of multiple cohorts to help determine the cutoff used in analysis. The software output will display each individual cohorts density plot, the population value at Q1, Q2, Q3, 90%, 93%, 95%, 97%, 99%, 99.5% and the value to achieve a z-score of 2.8.
 
